@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, network, website**
 
-- 📫 How to reach me **etrayax@gamil.com**
+- 📫 How to reach me **etrayax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
