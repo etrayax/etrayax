@@ -18,5 +18,3 @@ Don't wait for the path, create it.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=etrayax&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=etrayax&icon=2&color=0)](https://visitcount.itsvg.in)
